@@ -28,7 +28,7 @@ Each role has a unique dashboard to view and manage relevant data securely.
 ## 📂 Database Setup
 
 1. Import the `ohmsphp.sql` file into your MySQL database.
-2. Update your database connection settings in `db_connect.php` (or relevant config file).
+2. Update your database connection settings in `db_connect.php`.
 
 ```php
 $host = "localhost";
