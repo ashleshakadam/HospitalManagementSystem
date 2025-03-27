@@ -1,14 +1,16 @@
+# 📚 OHMSPHP Database Information
 
+## 📌 Database Name
+**ohmsphp**
 
-**Database Name: ohmsphp**
+## 💻 Recommended PHP Version
+**PHP 5.6 or newer**
 
-**Recommended PHP Version 5.6 or Newer**
+## 🔐 Admin Login Details
+- **Username:** `admin`  
+- **Password:** `Password@123`
 
+> ⚠️ **Important:**  
+Please make sure to change the default admin password after the first login to ensure security.
 
-**Admin Login Details**
-
-Username: admin
-Password: Password@123
-
-
-
+---
