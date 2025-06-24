@@ -21,7 +21,7 @@ Each role has a unique dashboard to view and manage relevant data securely.
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
-- **Styling:** Custom CSS and Bootstrap (if applicable)
+- **Styling:** Custom CSS and Bootstrap
 
 ---
 
